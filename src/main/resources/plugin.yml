@@ -1,0 +1,6 @@
+name: blockstateanalyzer
+version: '1.0.0'
+main: dev.cosmics.blockstateanalyzer.BlockStateAnalyzer
+api-version: '1.20'
+libraries:
+  - "org.jetbrains.kotlin:kotlin-stdlib:1.9.0-RC"
